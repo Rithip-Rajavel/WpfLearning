@@ -7,12 +7,14 @@ C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\M
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\App.g.cs
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning_MarkupCompile.cache
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning_MarkupCompile.lref
+C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\App.baml
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\MainWindow.baml
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.g.resources
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.AssemblyInfoInputs.cache
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.AssemblyInfo.cs
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.csproj.CoreCompileInputs.cache
+C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.sourcelink.json
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.dll
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\refint\WpfLearning.dll
 C:\Users\Rithip-PC\Desktop\Learning\C#wpf\WpfLearning\obj\Debug\net9.0-windows\WpfLearning.pdb

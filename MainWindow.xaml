@@ -33,7 +33,7 @@
             </WrapPanel>
         </Button>
     </Grid> -->
-    <!-- <Window.Resources>
+    <Window.Resources>
         <sys:String x:Key="ComboTitle">ComboBox</sys:String>
 
         <x:Array x:Key="ComboItems" Type="{x:Type sys:String}">
@@ -59,8 +59,7 @@
            Margin="10"/>
         <Label Content="{StaticResource ComboBoxTitle}" FontSize="24" FontWeight="Bold" Foreground="White" />
         <ComboBox Width="200" Height="30" Margin="0,5,0,10" ItemsSource="{StaticResource ComboItems}" SelectedIndex="0" FontSize="16" FontWeight="Bold" Foreground="Black" Background="White" />
-    </StackPanel> -->
+    </StackPanel>
 
     
-
 </Window>

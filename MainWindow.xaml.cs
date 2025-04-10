@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -25,19 +26,18 @@ public partial class MainWindow : Window
     //     string text = InputTextBox.Text;
     //     MessageBox.Show($"You entered: {text}");
     // }
-    private void MainGrid_MouseUp(Object sender,MouseButtonEventArgs e)
-    {
-        
-        // if (e.ChangedButton == MouseButton.Left)
-        // {
-        //     MessageBox.Show("Left mouse button clicked!");
-        // }
-        // else if (e.ChangedButton == MouseButton.Right)
-        // {
-        //     MessageBox.Show("Right mouse button clicked!");
-        // }
-
-        MessageBox.Show("You Clicked me at"+e.GetPosition(this).ToString());
-    }
+//    private void btnClick_Click(object sender, RoutedEventArgs e)
+//     {
+//         try
+//         {
+//             lbResult.Items.Add(pnlMain.FindResource("strPanel")?.ToString());
+//             lbResult.Items.Add(this.FindResource("strWindow")?.ToString());
+//             lbResult.Items.Add(Application.Current.FindResource("strApp")?.ToString());
+//         }
+//         catch (ResourceReferenceKeyNotFoundException ex)
+//         {
+//             lbResult.Items.Add($"Missing resource: {ex.Key}");
+//         }
+//     }
 
 }
